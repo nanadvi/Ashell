@@ -1,0 +1,30 @@
+Making 2 children!
+in left pipe function..
+child 0 called performRedirects with args 0
+child 0 called leftpipe!
+6 Dup to STDOUT 
+Calling ff() with commandashell.cpp
+. successfully opened 
+./dummy successfully opened 
+./dummy/testDir successfully opened 
+./dummy/testDir/dir successfully opened 
+returned from ./dummy/testDir/dir
+returned from ./dummy/testDir
+returned from ./dummy
+./dir successfully opened 
+returned from ./dir
+./ashell.v3 successfully opened 
+returned from ./ashell.v3
+./ashell.v2 successfully opened 
+returned from ./ashell.v2
+./nbproject successfully opened 
+./nbproject/private successfully opened 
+returned from ./nbproject/private
+returned from ./nbproject
+returned from .
+in right pipe function..
+child 1 called performRedirects with args 1
+child 1 called rightpipe with args 0x7fffa52052f0,wc,1
+5 Dup to STDIN 
+restored stdin
+restored stdout
